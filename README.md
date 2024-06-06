@@ -54,7 +54,7 @@ I am a back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amato707&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Amato707&theme=dark)](https://git.io/streak-stats)](https://git.io/streak-stats)
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amato707&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
