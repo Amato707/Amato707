@@ -21,11 +21,11 @@
   
 ### :man_technologist: About Me :
 I am a back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at JPMorgan Chase & Co. <img src="https://media.giphy.com/media/H1dWGfCn7DosSBBjhT/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer within the firm's cloud engineering team.
+- :telescope: I’m working as a Software Engineer within the firm's cloud engineering team
   
-- :seedling: Exploring Technical Content Writing, Raspberry Pi projects, and full-stack projects.
+- :seedling: Exploring Technical Content Writing, Raspberry Pi projects, and full-stack projects
   
-- :zap: In my free time, I host a Software Engineering Guild where my fellow colleagues and I deepen our knowledge of Java by engaging in coding exercises and prepare for technical certifications
+- :zap: In my free time, I enjoy reading, powerlifting, and hiking. Additionally, at JPMorgan I am the co-creator and host of the Software Engineering Guild, where my fellow colleagues and I deepen our knowledge of Java by engaging in coding exercises and prepare for technical certifications
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-amato12)
 <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" width="100"/>
