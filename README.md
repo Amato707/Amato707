@@ -25,7 +25,7 @@ I am a cloud platform engineer <img src="https://media.giphy.com/media/WUlplcMpO
   
 - :seedling: Exploring Technical Content Writing, Raspberry Pi projects, and full-stack projects
   
-- :zap: In my free time, I enjoy reading, traveling, and hiking. Additionally, at JPMorgan I am the host of the Software Engineering Guild, where my fellow colleagues and I deepen our knowledge of software engineering principles, system design, complex coding problems, and how to effectively use AI 
+- :zap: In my free time, I enjoy reading, traveling, and hiking. Previously, I hosted a Software Engineering Guild, where my fellow colleagues and I deepened our knowledge of software engineering principles, system design, complex coding problems, and how to effectively use AI 
   
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-amato12)
 <img src="https://media.giphy.com/media/3SL41WtN5l9DNdPJGs/giphy.gif" width="100"/>
