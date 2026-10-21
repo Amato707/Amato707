@@ -20,7 +20,7 @@
 ---
   
 ### :man_technologist: About Me :
-I am a back-end developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at JPMorgan Chase & Co. <img src="https://media.giphy.com/media/H1dWGfCn7DosSBBjhT/giphy.gif" width="30">
+I am a cloud platform engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at JPMorgan Chase & Co. <img src="https://media.giphy.com/media/H1dWGfCn7DosSBBjhT/giphy.gif" width="30">
 - :telescope: I’m a Software Engineer within the firm's cloud engineering team, focusing on Golang, Kubernetes, and Microservices 
   
 - :seedling: Exploring Technical Content Writing, Raspberry Pi projects, and full-stack projects
